@@ -140,12 +140,14 @@ namespace TCPServer01
                         return;
                     }
 
-                    strRecv = Encoding.ASCII.GetString(cn.Rx, 0, nCountReadBytes).Trim();
+                    string hex = BitConverter.ToString(cn.Rx);
+                    hex.Replace("-", "");
+                   // strRecv = Encoding.ASCII.GetString(cn.Rx, 0, nCountReadBytes).Trim();
                     //strRecv = Encoding.ASCII.GetString(mRx, 0, nCountReadBytes);
 
-                    printLine(DateTime.Now + " - " + cn.ToString() + ": " + strRecv);
+                    printLine(DateTime.Now + " - " + cn.ToString() + ": " + hex);
                     
-                    cn.Rx = new byte[512];
+                    cn.Rx = new byte[30];
 
                     tcpc.GetStream().BeginRead(cn.Rx, 0, cn.Rx.Length, onCompleteReadFromTCPClientStream, tcpc);
                 }

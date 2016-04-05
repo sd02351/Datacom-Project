@@ -22,3 +22,11 @@ C:\Users\theth\Downloads\tcpip-cliept-server-26\TCPServer01\TCPServer01\obj\x86\
 C:\Users\theth\Downloads\tcpip-cliept-server-26\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
 C:\Users\theth\Downloads\tcpip-cliept-server-26\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
 C:\Users\theth\Downloads\tcpip-cliept-server-26\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+C:\Users\theth\Downloads\tcpip-cliept-server-26\Datacom-Project\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\theth\Downloads\tcpip-cliept-server-26\Datacom-Project\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\theth\Downloads\tcpip-cliept-server-26\Datacom-Project\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\theth\Downloads\tcpip-cliept-server-26\Datacom-Project\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\theth\Downloads\tcpip-cliept-server-26\Datacom-Project\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+C:\Users\theth\Downloads\tcpip-cliept-server-26\Datacom-Project\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\theth\Downloads\tcpip-cliept-server-26\Datacom-Project\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\theth\Downloads\tcpip-cliept-server-26\Datacom-Project\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
